@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="55cf135d-812f-4cdf-85f7-ff37654d3c95" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/typescript-compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ordina-JWorks-TypeScript.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app.ts" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/src/index.html" />
+    <list default="true" id="55cf135d-812f-4cdf-85f7-ff37654d3c95" name="Default" comment="done">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -21,11 +15,68 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="app.ts" pinned="false" current-in-tab="true">
+      <file leaf-file-name="app.ts" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/app.ts">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="147">
-              <caret line="7" column="20" lean-forward="false" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+              <caret line="7" column="19" lean-forward="false" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="10" column="20" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+              <folding>
+                <marker date="1508229436219" expanded="true" signature="41239:41281" ph="..." />
+                <marker date="1508229436219" expanded="true" signature="41239:41299" ph="..." />
+                <marker date="1508229436219" expanded="true" signature="41239:41312" ph="..." />
+                <marker date="1508229436219" expanded="true" signature="41239:41327" ph="..." />
+                <marker date="1508229436219" expanded="true" signature="41362:43529" ph="..." />
+                <marker date="1508229436219" expanded="true" signature="41375:43514" ph="..." />
+                <marker date="1508229436219" expanded="true" signature="41429:41724" ph="..." />
+                <marker date="1508229436219" expanded="true" signature="41448:41709" ph="..." />
+                <marker date="1508229436219" expanded="true" signature="41511:41689" ph="..." />
+                <marker date="1508229436219" expanded="true" signature="41551:41655" ph="..." />
+                <marker date="1508229436219" expanded="true" signature="41572:41633" ph="..." />
+                <marker date="1508229436219" expanded="true" signature="41774:42101" ph="..." />
+                <marker date="1508229436219" expanded="true" signature="41793:42086" ph="..." />
+                <marker date="1508229436219" expanded="true" signature="41888:42066" ph="..." />
+                <marker date="1508229436219" expanded="true" signature="41928:42032" ph="..." />
+                <marker date="1508229436219" expanded="true" signature="41949:42010" ph="..." />
+                <marker date="1508229436219" expanded="true" signature="42152:42417" ph="..." />
+                <marker date="1508229436219" expanded="true" signature="42171:42402" ph="..." />
+                <marker date="1508229436219" expanded="true" signature="42204:42382" ph="..." />
+                <marker date="1508229436219" expanded="true" signature="42244:42348" ph="..." />
+                <marker date="1508229436219" expanded="true" signature="42265:42326" ph="..." />
+                <marker date="1508229436219" expanded="true" signature="42460:42766" ph="..." />
+                <marker date="1508229436219" expanded="true" signature="42479:42751" ph="..." />
+                <marker date="1508229436219" expanded="true" signature="42553:42731" ph="..." />
+                <marker date="1508229436219" expanded="true" signature="42593:42697" ph="..." />
+                <marker date="1508229436219" expanded="true" signature="42614:42675" ph="..." />
+                <marker date="1508229436219" expanded="true" signature="42817:43183" ph="..." />
+                <marker date="1508229436219" expanded="true" signature="42836:43168" ph="..." />
+                <marker date="1508229436219" expanded="true" signature="42931:43148" ph="..." />
+                <marker date="1508229436219" expanded="true" signature="42971:43114" ph="..." />
+                <marker date="1508229436219" expanded="true" signature="42992:43092" ph="..." />
+                <marker date="1508229436219" expanded="true" signature="43235:43500" ph="..." />
+                <marker date="1508229436219" expanded="true" signature="43254:43485" ph="..." />
+                <marker date="1508229436219" expanded="true" signature="43287:43465" ph="..." />
+                <marker date="1508229436219" expanded="true" signature="43327:43431" ph="..." />
+                <marker date="1508229436219" expanded="true" signature="43348:43409" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="2" lean-forward="false" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="2" />
               <folding />
             </state>
           </provider>
@@ -63,6 +114,7 @@
       <list>
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/src/app.ts" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -586,12 +638,34 @@
       <updated>1508223938357</updated>
       <workItem from="1508223940036" duration="26000" />
       <workItem from="1508224239336" duration="1439000" />
-      <workItem from="1508228517207" duration="678000" />
+      <workItem from="1508228517207" duration="942000" />
     </task>
+    <task id="LOCAL-00001" summary="done">
+      <created>1508229273031</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1508229273031</updated>
+    </task>
+    <task id="LOCAL-00002" summary="done">
+      <created>1508229355222</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1508229355222</updated>
+    </task>
+    <task id="LOCAL-00003" summary="done">
+      <created>1508229458671</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1508229458671</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2143000" />
+    <option name="totallyTimeSpent" value="2407000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="960" y="0" width="960" height="1032" extended-state="0" />
@@ -639,6 +713,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="done" />
+    <option name="LAST_COMMIT_MESSAGE" value="done" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
@@ -656,7 +734,60 @@
     <entry file="file://$PROJECT_DIR$/src/app.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
-          <caret line="7" column="20" lean-forward="false" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+          <caret line="7" column="19" lean-forward="false" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="20" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+          <folding>
+            <marker date="1508229436219" expanded="true" signature="41239:41281" ph="..." />
+            <marker date="1508229436219" expanded="true" signature="41239:41299" ph="..." />
+            <marker date="1508229436219" expanded="true" signature="41239:41312" ph="..." />
+            <marker date="1508229436219" expanded="true" signature="41239:41327" ph="..." />
+            <marker date="1508229436219" expanded="true" signature="41362:43529" ph="..." />
+            <marker date="1508229436219" expanded="true" signature="41375:43514" ph="..." />
+            <marker date="1508229436219" expanded="true" signature="41429:41724" ph="..." />
+            <marker date="1508229436219" expanded="true" signature="41448:41709" ph="..." />
+            <marker date="1508229436219" expanded="true" signature="41511:41689" ph="..." />
+            <marker date="1508229436219" expanded="true" signature="41551:41655" ph="..." />
+            <marker date="1508229436219" expanded="true" signature="41572:41633" ph="..." />
+            <marker date="1508229436219" expanded="true" signature="41774:42101" ph="..." />
+            <marker date="1508229436219" expanded="true" signature="41793:42086" ph="..." />
+            <marker date="1508229436219" expanded="true" signature="41888:42066" ph="..." />
+            <marker date="1508229436219" expanded="true" signature="41928:42032" ph="..." />
+            <marker date="1508229436219" expanded="true" signature="41949:42010" ph="..." />
+            <marker date="1508229436219" expanded="true" signature="42152:42417" ph="..." />
+            <marker date="1508229436219" expanded="true" signature="42171:42402" ph="..." />
+            <marker date="1508229436219" expanded="true" signature="42204:42382" ph="..." />
+            <marker date="1508229436219" expanded="true" signature="42244:42348" ph="..." />
+            <marker date="1508229436219" expanded="true" signature="42265:42326" ph="..." />
+            <marker date="1508229436219" expanded="true" signature="42460:42766" ph="..." />
+            <marker date="1508229436219" expanded="true" signature="42479:42751" ph="..." />
+            <marker date="1508229436219" expanded="true" signature="42553:42731" ph="..." />
+            <marker date="1508229436219" expanded="true" signature="42593:42697" ph="..." />
+            <marker date="1508229436219" expanded="true" signature="42614:42675" ph="..." />
+            <marker date="1508229436219" expanded="true" signature="42817:43183" ph="..." />
+            <marker date="1508229436219" expanded="true" signature="42836:43168" ph="..." />
+            <marker date="1508229436219" expanded="true" signature="42931:43148" ph="..." />
+            <marker date="1508229436219" expanded="true" signature="42971:43114" ph="..." />
+            <marker date="1508229436219" expanded="true" signature="42992:43092" ph="..." />
+            <marker date="1508229436219" expanded="true" signature="43235:43500" ph="..." />
+            <marker date="1508229436219" expanded="true" signature="43254:43485" ph="..." />
+            <marker date="1508229436219" expanded="true" signature="43287:43465" ph="..." />
+            <marker date="1508229436219" expanded="true" signature="43327:43431" ph="..." />
+            <marker date="1508229436219" expanded="true" signature="43348:43409" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="2" lean-forward="false" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="2" />
           <folding />
         </state>
       </provider>
