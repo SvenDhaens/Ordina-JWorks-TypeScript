@@ -16,8 +16,8 @@ publishItems("Matrix","Thriller","Did you know, Neo is the one?");
 publishItems("Moby Dick","Drama","Is this fish for real?");
 
 function doSomethingElse(){
-    let someBook: Book = new Book('testboek', 'genreboek', 'description');
-    let someMovie: Movie = new Movie('The Matrix', 'awesome', 'Something with computers ;)')
+    let someBook: Book = new Book('testboek', 'genreboek', 'description',"jos");
+    let someMovie: Movie = new Movie('The Matrix', 'Thriller', 'Something with computers.',10,"awesome")
 
     let library: Library = new Library(someBook, someMovie);
     let libraryDiv: HTMLElement = document.getElementById('library');
