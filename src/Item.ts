@@ -7,5 +7,5 @@ abstract class Item{
         this.genre = genre;
         this.description = description;
     }
-    abstract render(element:HTMLElement):void
+    abstract render(element: HTMLElement):void
 }
